@@ -1,3 +1,41 @@
+# Hi there, I'm Shmaiun! 👋
+
+### 🚀 About Me
+I'm a passionate developer focused on building clean, efficient, and user-friendly applications. I love learning new technologies and contributing to open-source projects.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: your.email@example.com
+
+---
+
+### 🛠️ Tech Stack & Tools
+Here are the technologies I work with daily:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, React, Vue |
+| **Backend** | Node.js, Python, Express |
+| **Databases** | MongoDB, PostgreSQL, MySQL |
+| **Tools & DevOps** | Git, GitHub, Docker, VS Code |
+
+---
+
+### 📊 GitHub Stats
+Let's see what I've been up to:
+
+![Shmaiun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmaiun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmaiun&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>  
 # Nuxt Vuetify GitHub Pages Minimal Starter
 
 [Demo](https://youtu.be/vrkbt1L4VJI)
